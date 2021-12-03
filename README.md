@@ -34,3 +34,5 @@
 	* faz update de todas as branchs locais
 * flow de pullrequest
 	* fork -> clone -> nova branch com nova feature -> commit -> merge pra master -> commit -> Pull request
+
+### Vitor Magno
