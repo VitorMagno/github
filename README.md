@@ -1,11 +1,11 @@
-# github
+# git
 
 * sistema de controle de versão
-* o que versionar
+* o que versiona
 	* codigo fonte
 	* documentação
 	* manual do usuario
-* comandos
+## comandos
 * git config --global user.name
 > configura seu username, usar o mesmo do git.
 * git config --global user.email
