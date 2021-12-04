@@ -36,3 +36,6 @@
 	* fork -> clone -> nova branch com nova feature -> commit -> merge pra master -> commit -> Pull request
 
 ### Vitor Magno
+<!-- modificações a partir daqui -->
+<!-- adicione seu nome iniciando com ### assim como no exemplo acima -->
+
